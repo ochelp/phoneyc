@@ -1,6 +1,7 @@
 spring.io:443#优选域名spring.io
 cf.3666888.xyz:8443#JP 电信优选[cf.3666888.xyz 49ms]
 www.wuduanyun.com:8443#JP 电信优选[www.wuduanyun.com 55ms]
+[2606:4700:83b6:2099:47f7:e45b:3d4f:eae7]:443#IND
 38.207.178.173:2087#HKG-HK
 85.121.245.35:443#HKG-HK
 
